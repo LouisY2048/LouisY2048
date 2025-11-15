@@ -11,7 +11,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisY2048)](https://github.com/anuraghazra/github-readme-stats)  
 
-😍已有![](https://komarev.com/ghpvc/?username=LouisY2048&color=brightgreen&style=plastic)来访。
+😍Visited: ![](https://komarev.com/ghpvc/?username=LouisY2048&color=brightgreen&style=plastic)
 
 <!--
 **LouisY2048/LouisY2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
