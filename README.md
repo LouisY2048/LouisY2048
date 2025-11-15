@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi，我是杨垒泽Louis👋
+
+![img]https://github.com/LouisY2048/LouisY2048/blob/main/%E7%8C%AB%E7%8C%AB%E8%B7%B3%E8%88%9E.gif
+![](https://komarev.com/ghpvc/?username=LouisY2048&color=brightgreen&style=plastic)
 
 <!--
 **LouisY2048/LouisY2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
